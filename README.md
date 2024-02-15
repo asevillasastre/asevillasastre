@@ -1,5 +1,5 @@
 <h1 align="center">Mathematical Engineer</h1>
-<h3 align="center">Operational Researcher | Programmer | Data Analyst</h3>
+<h3 align="center">Operational Researcher | Python Programmer | Data Analyst</h3>
 
 - 🔭 I’m currently working on [MAPAL Software](https://mapal-os.com/es/)
 
