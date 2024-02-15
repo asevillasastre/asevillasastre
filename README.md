@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! I'm Antonio Sevilla</h1>
-<h3 align="center">Mathematical Engeener Operational Researcher and Programmer</h3>
+<h3 align="center">Mathematical Engineer | Operational Researcher | Programmer</h3>
 
 - 🔭 I’m currently working on [MAPAL Software](https://mapal-os.com/es/)
 
