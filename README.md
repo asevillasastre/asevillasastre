@@ -1,5 +1,5 @@
-<h1 align="center">Antonio Sevilla Sastre</h1>
-<h3 align="center">Mathematical Engineer | Operational Researcher | Programmer</h3>
+<h1 align="center">Mathematical Engineer | Operational Researcher | Programmer</h1>
+
 
 - 🔭 I’m currently working on [MAPAL Software](https://mapal-os.com/es/)
 
